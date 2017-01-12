@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="CBC.Framework.Functions.DTO.UserRoleFunction, CBC.Framework" table="[UserRoleFunctions]">
+    <id name="ID" column="ID" type="Int64" unsaved-value="0">
+      <generator class="sequence">
+        <param name="sequence">SQ_USERROLEFUNCTION</param>
+      </generator>
+    </id>
+    <property name="TheFunctionID" column="TheFunctionID" type="Int64" />
+    <property name="TheUserRoleID" column="TheUserRoleID" type="Int64" />
+    <!--<property name="Endpoint" column="Endpoint" type="String" />-->
+    <many-to-one name="TheUserRole" column="TheUserRoleID" class="CBC.Framework.Functions.DTO.UserRole, CBC.Framework" insert="false" update="false" />
+<!--    <bag inverse="true" name="SubUserRoles" generic="true">
+      <key column="TheUserRoleFunctionID"></key>
+      <one-to-many class="CBC.Framework.Functions.DTO.UserRoleFunctionSubRole, CBC.Framework" />
+    </bag>-->
+  </class>
+</hibernate-mapping>

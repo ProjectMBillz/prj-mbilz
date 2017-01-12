@@ -1,0 +1,5 @@
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\PetaPoco\bin\x64\Debug\PetaPoco.dll.config
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\PetaPoco\bin\x64\Debug\PetaPoco.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\PetaPoco\bin\x64\Debug\PetaPoco.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\PetaPoco\obj\x64\Debug\PetaPoco.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\PetaPoco\obj\x64\Debug\PetaPoco.pdb

@@ -1,0 +1,158 @@
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\IMChatApp.dll.config
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\IMChatApp.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\IMChatApp.pdb
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Antlr3.Runtime.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Newtonsoft.Json.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Owin.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Net.Http.Formatting.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Helpers.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Http.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Http.WebHost.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Mvc.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Optimization.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Razor.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\WebGrease.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Newtonsoft.Json.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Net.Http.Formatting.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Helpers.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Http.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Http.WebHost.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Mvc.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Optimization.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.Razor.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Antlr3.Runtime.pdb
+D:\GitHub\IMChatApp\IMChat\IMChatApp\obj\Debug\IMChatApp.csprojResolveAssemblyReference.cache
+D:\GitHub\IMChatApp\IMChat\IMChatApp\obj\Debug\IMChatApp.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\obj\Debug\IMChatApp.pdb
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.Security.dll
+D:\GitHub\IMChatApp\IMChat\IMChatApp\bin\Microsoft.Owin.Security.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\IMChatApp.dll.config
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\IMChatApp.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\IMChatApp.pdb
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Antlr3.Runtime.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.Security.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Newtonsoft.Json.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Owin.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Net.Http.Formatting.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Helpers.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Http.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Http.WebHost.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Mvc.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Optimization.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Razor.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.Razor.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\WebGrease.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Microsoft.Owin.Security.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Newtonsoft.Json.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Net.Http.Formatting.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Helpers.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Http.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Http.WebHost.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Mvc.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Optimization.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.Razor.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\bin\Antlr3.Runtime.pdb
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\obj\Debug\IMChatApp.csprojResolveAssemblyReference.cache
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\obj\Debug\IMChatApp.dll
+D:\Demos\Signalr-angular chat application\C#\IMChatApp\obj\Debug\IMChatApp.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\IMChatApp.dll.config
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\IMChatApp.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\IMChatApp.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Antlr3.Runtime.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.Security.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Newtonsoft.Json.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Owin.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Net.Http.Formatting.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Helpers.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Http.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Http.WebHost.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Mvc.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Optimization.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Razor.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.Razor.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\WebGrease.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Microsoft.Owin.Security.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Newtonsoft.Json.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Net.Http.Formatting.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Helpers.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Http.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Http.WebHost.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Mvc.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Optimization.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.Razor.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Antlr3.Runtime.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\obj\Debug\IMChatApp.csprojResolveAssemblyReference.cache
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\obj\Debug\IMChatApp.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\obj\Debug\IMChatApp.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\AccessBank.Framework.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Core.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Services.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\NPoco.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\TuesPechkin.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\itextsharp.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\numtoword.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\SharpZipLib.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Data.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\TuesPechkin.Wkhtmltox.Win64.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Trx.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\NHibernate.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\HibernatingRhinos.Profiler.Appender.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.VBExtension.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\log4net.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Remotion.Linq.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Oracle.DataAccess.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Core.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Services.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\AccessBank.Framework.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\NPoco.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\TuesPechkin.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.Data.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\TuesPechkin.Wkhtmltox.Win64.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\NHibernate.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\NHibernate.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.VBExtension.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\QuickClaims.VBExtension.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\C#\IMChatApp\bin\Iesi.Collections.dll

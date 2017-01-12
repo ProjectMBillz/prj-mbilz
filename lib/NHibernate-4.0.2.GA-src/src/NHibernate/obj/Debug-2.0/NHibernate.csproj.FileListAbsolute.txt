@@ -1,0 +1,13 @@
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\NHibernate.XML
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\NHibernate.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\NHibernate.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Antlr3.Runtime.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Iesi.Collections.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Remotion.Linq.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Iesi.Collections.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Iesi.Collections.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Remotion.Linq.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\bin\Debug-2.0\Remotion.Linq.xml
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\obj\Debug-2.0\NHibernate.csprojResolveAssemblyReference.cache
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\obj\Debug-2.0\NHibernate.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NHibernate-4.0.2.GA-src\src\NHibernate\obj\Debug-2.0\NHibernate.pdb

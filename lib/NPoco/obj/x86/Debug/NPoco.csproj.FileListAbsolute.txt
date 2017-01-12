@@ -1,0 +1,4 @@
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NPoco\bin\Debug\NPoco.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NPoco\bin\Debug\NPoco.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NPoco\obj\x86\Debug\NPoco.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\NPoco\obj\x86\Debug\NPoco.pdb

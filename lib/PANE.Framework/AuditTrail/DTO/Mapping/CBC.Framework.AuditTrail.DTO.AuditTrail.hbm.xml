@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" >
+  <class name="CBC.Framework.AuditTrail.DTO.AuditTrail, CBC.Framework" table="[AuditTrail]">
+    <id name="ID" column="ID" type="Int64" unsaved-value="0">
+      <generator class="sequence">
+        <param name="sequence">SQ_AUDITTRAIL</param>
+      </generator>
+    </id>
+    <property name="Action" column="Action" type="CBC.Framework.AuditTrail.Enums.AuditAction, CBC.Framework" />
+    <property name="ActionDate" column="ActionDate" type="System.DateTime" />
+    <!--<property name="DataAfter" column="DataAfter" type="Byte[]" />
+    <property name="DataBefore" column="DataBefore" type="Byte[]" />-->
+    <property name="Data" column="Data" type="Byte[]" />
+    <property name="DataType" column="DataType" type="String" />
+    <property name="ObjectID" column="ObjectID" type="Int64" />
+    <property name="UserName" column="UserName" type="String" />
+    <property name="UserID" column="UserID" type="Int64" />
+    <property name="ClientIPAddress" column="ClientIPAddress" type="String" />
+    <property name="ClientName" column="ClientName" type="String" />
+    <property name="SubjectIdentifier" column="SubjectIdentifier" type="String" />
+    <property name="ApplicationName" column="ApplicationName" type="String" />
+    <property name="GroupName" column="GroupName" type="String" />
+  </class>
+</hibernate-mapping>

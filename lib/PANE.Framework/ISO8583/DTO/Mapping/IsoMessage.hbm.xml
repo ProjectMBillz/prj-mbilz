@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" schema="dbo">
+  <class lazy="false" name="CBC.Framework.ISO8583.DTO.IsoMessage, CBC.Framework" table="[MessageLogs]">
+    <id name="ID" type="Int64" column="ID">
+      <generator class="identity" />
+    </id>
+    <property name="Type" column="Type" type="Int32" />
+    <property name="Sender" column="Sender" type="CBC.Framework.ISO8583.DTO.MessageEntity, CBC.Framework" />
+    <property name="Receiver" column="Receiver" type="CBC.Framework.ISO8583.DTO.MessageEntity,CBC.Framework" />
+    <property name="Message" column="Message" type="Byte[]" />
+    <property name="ResponseMessage" column="ResponseMessage" type="Byte[]" />
+    <property name="RequestDate" column="RequestDate" type="DateTime" />
+    <property name="ResponseDate" column="ResponseDate" type="DateTime" />
+    <property name="STAN" column="STAN" type="Int64" />
+    <property name="SenderIP" column="SenderIP" type="String" />
+    <property name="ReceiverIP" column="ReceiverIP" type="String" />
+    <property name="OriginalDataElements" column="OriginalDataElements" type="String" />
+    <property name="CardPAN" column="CardPAN" type="String" />
+    <property name="Amount" column="Amount" type="Int64" />
+    <property name="CardAcceptorID" column="CardAcceptorID" type="String" />
+    <property name="TransactionTypeCode" column="TransactionTypeCode" type="String" />
+    <property name="TerminalID" column="TerminalID" type="String" />
+
+  </class>
+</hibernate-mapping>

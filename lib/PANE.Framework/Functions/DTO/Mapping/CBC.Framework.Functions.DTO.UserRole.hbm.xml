@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="CBC.Framework.Functions.DTO.UserRole, CBC.Framework" table="UserRoles">
+    <id name="ID" column="ID" type="Int64" unsaved-value="0">
+      <generator class="sequence">
+        <param name="sequence">SQ_USERROLE</param>
+      </generator>
+    </id>
+    <property name="Name" column="Name" type="String" />
+    <property name="Code" column="Code" type="String" />
+    <!--<property name="UserCategory" column="UserCategory" type="CBC.Framework.Functions.DTO.UserCategory,CBC.Framework" />-->
+    <property name="Description" column="Description" type="String" />
+    <property name="Scope" column="Scope" type="CBC.Framework.Functions.DTO.UserRoleScope, CBC.Framework" />
+    <!--<property name="ScopeID" column="Scope" type="Int32" />-->
+    <property name="HasApprovalRight" column="HasApprovalRight" type="Boolean" />
+    <property name="Status" column="Status" type="CBC.Framework.Functions.DTO.Status, CBC.Framework" />
+    <!--   <bag inverse="true" name="TheUserRoleFunctions" generic="true" lazy="false">
+      <key column="TheUserRoleID"></key>
+      <one-to-many class="CBC.Framework.Functions.DTO.UserRoleFunction, CBC.Framework" />
+    </bag>-->
+  </class>
+</hibernate-mapping>

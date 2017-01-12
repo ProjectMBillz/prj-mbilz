@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26798E26-3520-4A64-A73A-B098A8DB7077}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccessBank.Framework</RootNamespace>
+    <AssemblyName>AccessBank.Framework</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>pane.managedservices.pfx</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper.Net4">
+      <HintPath>..\AutoMapper.Net4.dll</HintPath>
+    </Reference>
+    <Reference Include="Bounty, Version=1.0.2469.42722, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bounty.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core">
+      <HintPath>..\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.DynamicProxy">
+      <HintPath>..\Castle.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="CSVReader">
+      <HintPath>..\CSVReader.dll</HintPath>
+    </Reference>
+    <Reference Include="CurrencyConverterVB">
+      <HintPath>..\CurrencyConverterVB.dll</HintPath>
+    </Reference>
+    <Reference Include="FileParser">
+      <HintPath>..\FileParser.dll</HintPath>
+    </Reference>
+    <Reference Include="GMDatePicker">
+      <HintPath>..\GMDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="HibernatingRhinos.NHibernate.Profiler.Appender, Version=0.9.0.0, Culture=neutral, PublicKeyToken=0774796e73ebf640, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HibernatingRhinos.NHibernate.Profiler.Appender.dll</HintPath>
+    </Reference>
+    <Reference Include="HibernatingRhinos.Profiler.Appender, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0774796e73ebf640, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HibernatingRhinos.Profiler.Appender.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq">
+      <HintPath>..\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Trx">
+      <HintPath>..\Trx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuditTrail\Attributes\TrailableFormatterAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableDependencyPropertyAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableInnerClassAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableNameAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableIgnoreAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableStatusAttribute.cs" />
+    <Compile Include="AuditTrail\Attributes\TrailableAttribute.cs" />
+    <Compile Include="AuditTrail\AuditTrailInterceptor2.cs" />
+    <Compile Include="AuditTrail\DTO\IAuditable.cs" />
+    <Compile Include="AuditTrail\Exceptions\AuditTrailException.cs" />
+    <Compile Include="AuditTrail\AuditTrailInterceptor.cs" />
+    <Compile Include="AuditTrail\DTO\AuditTrail.cs" />
+    <Compile Include="AuditTrail\Exceptions\AuditTrailIdentifierException.cs" />
+    <Compile Include="DAO\IInstitutionDAO.cs" />
+    <Compile Include="DTO\IEntity.cs" />
+    <Compile Include="DTO\IInstitution.cs" />
+    <Compile Include="Functions\DTO\IBranch.cs" />
+    <Compile Include="Functions\DTO\UserCategory.cs" />
+    <Compile Include="ISO8583\Client\Configuration\ConfigurationManager.cs" />
+    <Compile Include="ISO8583\Client\DTO\BalanceEnquiryResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\ChangePINResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\FullStatementResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\FundsTransferResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\HotListCardResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\KeyExchangeResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\LinkedAccountEnquiryResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\MessageResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\MiniStatementResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\PaymentResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\ReversalResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\SignOffResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\SignOnResponse.cs" />
+    <Compile Include="ISO8583\Client\DTO\TransactionReversalResponse.cs" />
+    <Compile Include="ISO8583\Client\Engine.cs" />
+    <Compile Include="ISO8583\Client\Exceptions\ConnectionTimedOutException.cs" />
+    <Compile Include="ISO8583\Client\Messages\AdministrationMessage.cs" />
+    <Compile Include="ISO8583\Client\Messages\AuthorizationMessage.cs" />
+    <Compile Include="ISO8583\Client\Messages\BalanceEnquiry.cs" />
+    <Compile Include="ISO8583\Client\Messages\CardBasedMessage.cs" />
+    <Compile Include="ISO8583\Client\Messages\ChangePIN.cs" />
+    <Compile Include="ISO8583\Client\Messages\Echo.cs" />
+    <Compile Include="ISO8583\Client\Messages\FinancialMessage.cs" />
+    <Compile Include="ISO8583\Client\Messages\FullStatement.cs" />
+    <Compile Include="ISO8583\Client\Messages\FundsTransfer.cs" />
+    <Compile Include="ISO8583\Client\Messages\HotListCard.cs" />
+    <Compile Include="ISO8583\Client\Messages\KeyExchange.cs" />
+    <Compile Include="ISO8583\Client\Messages\LinkedAccountEnquiry.cs" />
+    <Compile Include="ISO8583\Client\Messages\Message.cs" />
+    <Compile Include="ISO8583\Client\Messages\MiniStatement.cs" />
+    <Compile Include="ISO8583\Client\Messages\Payment.cs" />
+    <Compile Include="ISO8583\Client\Messages\Reversal.cs" />
+    <Compile Include="ISO8583\Client\Messages\SignOff.cs" />
+    <Compile Include="ISO8583\Client\Messages\SignOn.cs" />
+    <Compile Include="ISO8583\Client\Messages\TransactionReversal.cs" />
+    <Compile Include="ISO8583\Client\Utility\FullStatementXmlParser.cs" />
+    <Compile Include="ISO8583\Client\Utility\IsolatedStanSequencer.cs" />
+    <Compile Include="ISO8583\Client\Utility\ResponseDescriptor.cs" />
+    <Compile Include="ISO8583\Client\Utility\StanSequence.cs" />
+    <Compile Include="ISO8583\DAO\IsoMessageDAO.cs" />
+    <Compile Include="ISO8583\DTO\Account.cs" />
+    <Compile Include="ISO8583\DTO\Amount.cs" />
+    <Compile Include="ISO8583\DTO\Balance.cs" />
+    <Compile Include="ISO8583\DTO\CardAcceptor.cs" />
+    <Compile Include="ISO8583\DTO\CardDetails.cs" />
+    <Compile Include="ISO8583\DTO\Fee.cs" />
+    <Compile Include="ISO8583\DTO\FullTransaction.cs" />
+    <Compile Include="ISO8583\DTO\IsoMessage.cs" />
+    <Compile Include="ISO8583\DTO\MessageEntity.cs" />
+    <Compile Include="ISO8583\DTO\Transaction.cs" />
+    <Compile Include="ISO8583\DTO\TransAmount.cs" />
+    <Compile Include="ISO8583\Utility\AccountType.cs" />
+    <Compile Include="ISO8583\Utility\AmountType.cs" />
+    <Compile Include="ISO8583\Utility\MessageReasonCode.cs" />
+    <Compile Include="ISO8583\Utility\TransactionType.cs" />
+    <Compile Include="ISO8583\Utility\XMLNameAttribute.cs" />
+    <Compile Include="NHibernateManager\Configuration\Enums.cs" />
+    <Compile Include="NHibernateManager\Configuration\OpenSessionInViewSection.cs" />
+    <Compile Include="NHibernateManager\Configuration\SessionFactoriesCollection.cs" />
+    <Compile Include="NHibernateManager\Configuration\SessionFactoryElement.cs" />
+    <Compile Include="DAO\CoreDAO.cs" />
+    <Compile Include="Approval\DAO\ApprovalConfigurationDAO.cs" />
+    <Compile Include="Approval\DTO\ApprovalConfiguration.cs" />
+    <Compile Include="AuditTrail\Enums\AuditAction.cs" />
+    <Compile Include="DTO\DataObject.cs" />
+    <Compile Include="DTO\IDataObject.cs" />
+    <Compile Include="Functions\DAO\UserRoleFunctionSubRoleDAO.cs" />
+    <Compile Include="Functions\DAO\UserDAO.cs" />
+    <Compile Include="Functions\DAO\UserRoleDAO.cs" />
+    <Compile Include="Functions\DAO\UserRoleFunctionDAO.cs" />
+    <Compile Include="Functions\DAO\FunctionDAO.cs" />
+    <Compile Include="Functions\DTO\UserRoleFunctionSubRole.cs" />
+    <Compile Include="Functions\DTO\Status.cs" />
+    <Compile Include="Functions\DTO\UserRoleScope.cs" />
+    <Compile Include="Functions\DTO\IUser.cs" />
+    <Compile Include="Functions\DTO\FunctionsMembershipUser.cs" />
+    <Compile Include="Functions\DTO\UserRoleFunction.cs" />
+    <Compile Include="Functions\DTO\UserRole.cs" />
+    <Compile Include="Functions\DTO\Function.cs" />
+    <Compile Include="Functions\DTO\UserStatus.cs" />
+    <Compile Include="Functions\FunctionsEngine.cs" />
+    <Compile Include="Functions\FunctionsMembershipProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Functions\FunctionsRoleProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NHibernateManager\NHibernateSessionHttpModule.cs" />
+    <Compile Include="NHibernateManager\NHibernateSessionManager.cs" />
+    <Compile Include="Presentation\BaseRecurringService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\AES.cs" />
+    <Compile Include="Utility\ApprovalResponse.cs" />
+    <Compile Include="Utility\ApproverException.cs" />
+    <Compile Include="Utility\Attributes.cs" />
+    <Compile Include="Utility\EnumBinder.cs" />
+    <Compile Include="Utility\FieldNos.cs" />
+    <Compile Include="Utility\InstitutionCodeParameter.cs" />
+    <Compile Include="Utility\IPResolver.cs" />
+    <Compile Include="Utility\ISO8583DataExtractor.cs" />
+    <Compile Include="Utility\MailMaster.cs" />
+    <Compile Include="Utility\MD5Password.cs" />
+    <Compile Include="Utility\BinarySerializer.cs" />
+    <Compile Include="Utility\DBSchemaUpdate.cs" />
+    <Compile Include="Utility\TransactionStatus.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Approval\DTO\Mapping\CBC.Framework.Approval.DTO.ApprovalConfiguration.hbm.xml" />
+    <EmbeddedResource Include="AuditTrail\DTO\Mapping\CBC.Framework.AuditTrail.DTO.AuditTrail.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Functions\DTO\Mapping\CBC.Framework.Functions.DTO.Function.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Functions\DTO\Mapping\CBC.Framework.Functions.DTO.UserRole.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Functions\DTO\Mapping\CBC.Framework.Functions.DTO.UserRoleFunction.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Functions\DTO\Mapping\CBC.Framework.Functions.DTO.UserRoleFunctionSubRole.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AuditTrail\app.config" />
+    <None Include="pane.managedservices.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="nhibernateRemoteDB.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ISO8583\DTO\Mapping\IsoMessage.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AuditTrail\DAO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NHibernate-4.0.2.GA-src\src\NHibernate\NHibernate.csproj">
+      <Project>{5909bfe7-93cf-4e5f-be22-6293368af01d}</Project>
+      <Name>NHibernate</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

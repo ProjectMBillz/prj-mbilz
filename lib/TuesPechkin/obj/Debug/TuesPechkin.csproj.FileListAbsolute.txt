@@ -1,0 +1,8 @@
+D:\Applications\DEMOS\TuesPechkin\TuesPechkin\bin\Debug\TuesPechkin.dll
+D:\Applications\DEMOS\TuesPechkin\TuesPechkin\bin\Debug\TuesPechkin.pdb
+D:\Applications\DEMOS\TuesPechkin\TuesPechkin\obj\Debug\TuesPechkin.dll
+D:\Applications\DEMOS\TuesPechkin\TuesPechkin\obj\Debug\TuesPechkin.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\TuesPechkin\bin\Debug\TuesPechkin.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\TuesPechkin\bin\Debug\TuesPechkin.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\TuesPechkin\obj\Debug\TuesPechkin.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\TuesPechkin\obj\Debug\TuesPechkin.pdb

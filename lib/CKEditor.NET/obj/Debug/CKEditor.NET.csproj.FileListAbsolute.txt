@@ -1,0 +1,10 @@
+D:\Documents\Mansard\QuickClaims\resources\ckeditor_aspnet_3.6.6.2\CKEditor.NET\bin\Debug\CKEditor.NET.dll
+D:\Documents\Mansard\QuickClaims\resources\ckeditor_aspnet_3.6.6.2\CKEditor.NET\bin\Debug\CKEditor.NET.pdb
+D:\Documents\Mansard\QuickClaims\resources\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.csprojResolveAssemblyReference.cache
+D:\Documents\Mansard\QuickClaims\resources\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.dll
+D:\Documents\Mansard\QuickClaims\resources\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\CKEditor.NET\bin\Debug\CKEditor.NET.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\CKEditor.NET\bin\Debug\CKEditor.NET.pdb
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\CKEditor.NET\obj\Debug\CKEditor.NET.csprojResolveAssemblyReference.cache
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\CKEditor.NET\obj\Debug\CKEditor.NET.dll
+D:\Applications\SCM\Claims\AXAMansardQuickClaims\lib\CKEditor.NET\obj\Debug\CKEditor.NET.pdb
